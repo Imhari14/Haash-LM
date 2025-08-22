@@ -16,7 +16,7 @@
 
 | Tag    | Description        |
 | ------ | ------------------ |
-| `beta` | Production build   |
+| `beta` | Public Beta   |
 
 ## 🚀 Quick Start
 
