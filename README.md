@@ -105,18 +105,12 @@ docker logs -f haashlm
 - **System Config**: Minimum 8-12 core CPUs and 8GB RAM for smooth experience
 - **Network issues**: Check connectivity to APIs
 
-## 🔒 Security
+## 📝 Feedback
 
-- Source code protection (compiled Python)
-- Reverse engineering protection
-- Production optimization
-- Enterprise-ready deployment
+We’d love to hear your thoughts and suggestions to improve **HaashLM**!  
+Please take a minute to fill out our short feedback form:  
 
-## 🚀 Start Using HaashLM
+👉 [Give Feedback Here](https://docs.google.com/forms/d/e/1FAIpQLSek_2hkcVyvUhSlnFPQO1H3P-ZK5RviKDQyuHsRoTJObV8q7g/viewform?usp=dialog)
 
-```bash
-docker pull imhari14/haash-lm:beta
-docker run -p 3000:3000 -p 8001:8001 imhari14/haash-lm:beta
-```
 
 **⭐ Star this repo if you find it useful!**
