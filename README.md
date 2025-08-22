@@ -33,6 +33,9 @@ docker run -p 3000:3000 -p 8001:8001 imhari14/haash-lm:beta
 ```bash
 docker run -d -p 3000:3000 -p 8001:8001 --name haashlm imhari14/haash-lm:beta
 ```
+## 🎥 Demo Walkthrough
+
+[![Watch the Demo](https://img.youtube.com/vi/c3EXpJ3FXUQ/maxresdefault.jpg)](https://youtu.be/c3EXpJ3FXUQ)
 
 ## 🌐 Access
 
