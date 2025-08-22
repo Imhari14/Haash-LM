@@ -1,4 +1,4 @@
-# 🚀 HaashLM - AI-Powered Video Learning Platform
+# 🎥 HaashLM - AI-Powered Video Learning Platform
 
 **A secure, production-ready AI app that transforms YouTube videos into interactive learning experiences with quizzes, code exercises, and Google Colab integration.**
 
