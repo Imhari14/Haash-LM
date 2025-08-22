@@ -35,7 +35,16 @@ docker run -d -p 3000:3000 -p 8001:8001 --name haashlm imhari14/haash-lm:beta
 ```
 ## 🎥 Demo Walkthrough
 
-[![Watch the Demo](https://img.youtube.com/vi/msM2Nej8m_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=msM2Nej8m_M)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=msM2Nej8m_M" target="_blank">
+    <img src="https://img.youtube.com/vi/msM2Nej8m_M/maxresdefault.jpg" alt="HaashLM Demo Video" width="80%" style="border-radius:10px">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://www.youtube.com/watch?v=msM2Nej8m_M" target="_blank">Watch the Full Demo on YouTube</a>
+</p>
+
 
 
 
